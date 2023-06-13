@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arhaantech-react-demo/static/css/main.a1a2ad16.chunk.css",
+    "main.js": "/arhaantech-react-demo/static/js/main.fd2d3f65.chunk.js",
+    "main.js.map": "/arhaantech-react-demo/static/js/main.fd2d3f65.chunk.js.map",
+    "runtime-main.js": "/arhaantech-react-demo/static/js/runtime-main.729e01bb.js",
+    "runtime-main.js.map": "/arhaantech-react-demo/static/js/runtime-main.729e01bb.js.map",
+    "static/js/2.01e91ad7.chunk.js": "/arhaantech-react-demo/static/js/2.01e91ad7.chunk.js",
+    "static/js/2.01e91ad7.chunk.js.map": "/arhaantech-react-demo/static/js/2.01e91ad7.chunk.js.map",
+    "index.html": "/arhaantech-react-demo/index.html",
+    "static/css/main.a1a2ad16.chunk.css.map": "/arhaantech-react-demo/static/css/main.a1a2ad16.chunk.css.map",
+    "static/js/2.01e91ad7.chunk.js.LICENSE.txt": "/arhaantech-react-demo/static/js/2.01e91ad7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.729e01bb.js",
+    "static/js/2.01e91ad7.chunk.js",
+    "static/css/main.a1a2ad16.chunk.css",
+    "static/js/main.fd2d3f65.chunk.js"
+  ]
+}
