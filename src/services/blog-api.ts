@@ -35,6 +35,7 @@ const BlogCardData: IBlogCard[] = [
       The site updates frequently, nearly two blog posts a day from contributing writers, and it also offers a community forum for discussion or questions.`,
   },
 ];
+
 export default {
   getBlog: (): IBlogCard[] => {
     // return axios.get<any>(
